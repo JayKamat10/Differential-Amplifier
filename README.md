@@ -1,2 +1,2 @@
 # LTSpice-Project
-My assignment submission on Differential Amplifier Design
+A differential amplifier made to match specificaitons using LT-Spice
